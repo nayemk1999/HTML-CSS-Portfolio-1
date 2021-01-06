@@ -197,10 +197,11 @@ h3{
     font-size: 20px;
     
 }
-.top-footer h3{
+.top-footer h4{
     font-weight: bold;
     font-size: 30px;
     color: black;
+    padding: 10px 0px;
 }
 .top-footer img{
     width: 35px;

@@ -161,7 +161,9 @@ h3{
 .get-touch h2{
     margin-bottom: 20px;
     font-size: 50px;
-    border-bottom: 2px solid tomato;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-bottom: 5px solid;
+    border-image-slice: 1;
     display: inline-table   ;
 }
 .form{

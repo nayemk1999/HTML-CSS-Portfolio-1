@@ -21,11 +21,12 @@ h2{
     font-family: 'Bebas Neue', cursive;
     font-size: 40px;
     letter-spacing: 2px;
+    padding-top: 20px;
 }
 
 section{
     padding-bottom: 10px;
-    height: 500px;
+    height: 600px;
 }
 header{
    height: 100px; 
@@ -155,6 +156,7 @@ h3{
 }
 .get-touch{
     text-align: center;
+    padding-bottom: 20px;
     
     
 }
